@@ -9,7 +9,7 @@ Welcome to the _Termux Calculator_, an amazing script for people trying to cheat
 I do not need to explain all the information about this script, since it will be shown when executed. 
 The reason why I made this for Termux is because school chromebooks with GoGuardian have Termux able to install, as the Google Play store is very limited on school chromebooks.
 
-Here is the script to run
+Here is the script to run.
 ```bash
 #!/bin/bash
 cat << 'EOF' > Calculator.sh
