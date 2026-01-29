@@ -39,7 +39,7 @@ echo -e "${GREEN}Welcome to the Termux Calculator by theystemYT!${RESET}"
 echo
 echo -e "${YELLOW}To use this calculator, use a key word from our list, then the equation. (Example: add 1+1) Then, the answer will show up.
 List of key words
-Use 'add' for adding 
+Use 'add' for adding
 Use 'sub' for subtraction
 Use 'multiply' for multiplication
 Use 'divide' for division${RESET}"
