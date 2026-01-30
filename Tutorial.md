@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/a56d21bc-5bb7-4fb8-82f3-abd94fb77d08
 
 Then, once your done with that, you want to launch Termux, and if it asks for permission for notifications, then allow it. (more info is in the READ.me on why you should, it is NEEDED for this script) Then, paste in the copied code. (it is in your clipboard, since you did copy it to your clipboard) Then press ![Image](https://github.com/user-attachments/assets/b0f869b4-b31a-4334-b0a1-0510e89e9725), or Enter, or whichever key in your keyboard/digital keyboard acts as Enter, to execute the code, and your done! This video will also show usage of the calculator. Here is a video doing exactly that (This also shows that the script works as I did a test with the add keyword):
 
-
+https://github.com/user-attachments/assets/93f31b62-31ad-47df-baa0-25fe8c1555b2
