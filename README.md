@@ -9,6 +9,8 @@
 
 > Make sure you have notifications enabled on your device with Termux so that Termux always shows a notification when your in a session (and if you close it, it won't pop up again until you close the app and reopen it since the notification shows up only when opening the app), where you can exit the session, by touching Exit on the notification.
 > Images of the notification:
+![Image](https://github.com/user-attachments/assets/ac66a931-96e8-49b3-83d7-952012315794)
+![Image](https://github.com/user-attachments/assets/38ce0989-8a83-49df-bd74-16de81148197)
 
 >[!TIP]
 >Scroll down more to find more information about this script, and other stuff
