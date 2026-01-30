@@ -1,11 +1,11 @@
 >[!IMPORTANT]
-> Please do notice that this script is copyrighted, and that any part of it being used in anyone else's scripts are not allowed. You can view the [copyright license](https://github.com/theystemYT/TermuxCalculator/blob/main/LICENSE.md) for more information.
+> Please do notice that this script is copyrighted, and that any part of it being used in anyone else's scripts are not allowed. You can view the [copyright license](https://github.com/theystemYT/TermuxCalculator/blob/main/LICENSE.md) for more information. If you are looking to show this script in a video, you will have to ask for permission, and If I allow it, you can show the script in a video, but DO NOT show the script in a different link than the original github link, which is https://github.com/theystemYT/TermuxCalculator/edit/main/README.md
 
 >[!TIP]
 > Need a [tutorial](https://github.com/theystemYT/TermuxCalculator/blob/main/Tutorial.md)? We got you covered. Press the [blue](example.com) tutorial text!
 
 >[!IMPORTANT]
-> Please make sure to exit your current Termux session and make a new one before executing this script. Also, do NOT add spaces when using key words and then adding your equation! When using this script, use a key word, and a equations, but the symbol and equation must not have spaces! (Example: add 1+1), it should be like this, not (add 1 + 1)! Or else, it will return as a invaild function. If you do not understand, you will when executing the script, since it has info about how to use the calculator, and you will encounter "key words".
+> Please make sure to exit your current Termux session and make a new one before executing this script. Also, do NOT add spaces when using key words and then adding your equation! When using this script, use a key word, and a equation, but the symbol and equation must not have spaces! (Example: add 1+1), it should be like this, not (add 1 + 1)! Or else, it will return as a invaild function. If you do not understand, you will when executing the script, since it has info about how to use the calculator, and you will encounter "key words".
 
 > Make sure you have notifications enabled on your device with Termux so that Termux always shows a notification when your in a session (and if you close it, it won't pop up again until you close the app and reopen it since the notification shows up only when opening the app), where you can exit the session, by touching Exit on the notification.
 > Images of the notification:
