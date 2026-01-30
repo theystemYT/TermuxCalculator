@@ -7,7 +7,7 @@
 >[!IMPORTANT]
 > Please make sure to exit your current Termux session and make a new one before executing this script. Also, do NOT add spaces when using key words and then adding your equation! When using this script, use a key word, and a equations, but the symbol and equation must not have spaces! (Example: add 1+1), it should be like this, not (add 1 + 1)! Or else, it will return as a invaild function. If you do not understand, you will when executing the script, since it has info about how to use the calculator, and you will encounter "key words".
 
-> Make sure you have notifications enabled on your device with Termux so that Termux always shows a notification when your in a session currently, where you can exit the session, by touching Exit.
+> Make sure you have notifications enabled on your device with Termux so that Termux always shows a notification when your in a session, where you can exit the session, by touching Exit on the notification.
 
 >[!TIP]
 >Scroll down more to find more information about this script, and other stuff
