@@ -7,6 +7,9 @@
 >[!IMPORTANT]
 > Please make sure to exit your current Termux session and make a new one before executing this script. Also, do NOT add spaces when using key words and then adding your equation! When using this script, use a key word, and a equations, but the symbol and equation must not have spaces! (Example: add 1+1), it should be like this, not (add 1 + 1)! Or else, it will return as a invaild function. If you do not understand, you will when executing the script, since it has info about how to use the calculator, and you will encounter "key words".
 
+>[!TIP]
+>Scroll down more to find more information about this script, and other stuff
+
 # Termux Calculator
 Welcome to the _Termux Calculator_, an amazing script for people trying to cheat in school. This script is basically just a calculator.
 I do not need to explain all the information about this script, since it will be shown when executed. 
